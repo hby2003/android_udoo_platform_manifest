@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://aosp.tuna.tsinghua.edu.cn/platform/manifest"
-           review="https://aosp.tuna.tsinghua.edu.cn/platform/manifest" />
+           fetch="https://aosp.tuna.tsinghua.edu.cn/"
+           review="https://aosp.tuna.tsinghua.edu.cn/" />
   <remote  name="github"
            fetch="git://github.com/" />
   <remote  name="android_x86"
